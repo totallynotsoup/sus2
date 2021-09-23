@@ -8,7 +8,7 @@ setup(
   author = 'yharonsoup',
   author_email = 'yharonsoup@gmail.com',
   url = 'https://github.com/yharonsoup/sus2/',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/yharonsoup/sus2/archive/refs/tags/v_01.tar.gz',
   keywords = ['sus', 'amogus'],
   install_requires=[],
   classifiers=[
